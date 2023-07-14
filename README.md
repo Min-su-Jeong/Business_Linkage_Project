@@ -1,5 +1,6 @@
 # Business_Linkage_Project
 기업 연계형 프로젝트 개발을 위한 Repository 입니다.
+- 사출기 결과물의 양불 판정을 위한 이상치 검출을 위한 GUI 분석 프로그램 개발
 <br/><br/>
 
 ## Functions
