@@ -151,3 +151,6 @@ Anomaly Detection 과정을 수행한다. 그 후, 결과를 성능 지표를 �
 ## Paper
 - J. Jeong, M. Jeong, J. Si and S. Kim, "Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", Proc. Of Korean Institute of Information Technology Conference, pp.329-330, Dec. 2022.
 - [Paper Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11183818)
+
+- J. Si, J. Jeong, M, Jeong, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+- [Journal Link](http://ki-it.com/_common/do.php?a=current&b=21&bidx=3274&aidx=36440)
